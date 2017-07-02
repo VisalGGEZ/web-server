@@ -9,3 +9,5 @@ var middleware = {
 		next();
 	}
 };
+
+module.exports = middleware;
